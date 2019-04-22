@@ -15,6 +15,8 @@ __Port ID:__ the name of the interface if it exists and contains only US-ASCII([
 
 Send lldp packets from all physical interfaces. Team interfaces are also processed, was tested on Windows with native, HPE and Brocade network adapters driver.
 
+Download binary [releases](https://github.com/VictorPavlushin/SympleLldpAgent/releases)
+
 # Running
 ```
 SympleLldpAgent.exe 
