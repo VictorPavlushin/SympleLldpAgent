@@ -25,6 +25,7 @@ LLDP packets are sent to all interfaces every 30 seconds
 Copy SympleLldpAgent.exe to a new directory (e.g. C:\Program Files\SympleLldpAgent).
 
 Run command:
+To install
 ```
 SympleLldpAgent.exe install
 ```
